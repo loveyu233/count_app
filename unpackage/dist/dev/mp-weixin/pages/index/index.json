@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "u-datetime-picker": "../../uni_modules/uview-plus/components/u-datetime-picker/u-datetime-picker",
+    "view-data": "../../components/viewData/viewData",
+    "up-input": "../../uni_modules/uview-plus/components/u-input/u-input",
+    "up-button": "../../uni_modules/uview-plus/components/u-button/u-button",
+    "up-popup": "../../uni_modules/uview-plus/components/u-popup/u-popup"
+  }
+}
